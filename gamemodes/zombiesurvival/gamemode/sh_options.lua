@@ -134,7 +134,7 @@ GM.AmmoResupply = table.ToAssoc({"ar2", "pistol", "smg1", "357", "xbowbolt", "bu
 -- Worth --
 -----------
 
-GM:AddStartingItem("pshtr",				ITEMCAT_GUNS,			45,				"weapon_zs_peashooter")
+GM:AddStartingItem("pshtr",				ITEMCAT_GUNS,			05,				"weapon_zs_peashooter")
 GM:AddStartingItem("btlax",				ITEMCAT_GUNS,			45,				"weapon_zs_battleaxe")
 GM:AddStartingItem("owens",				ITEMCAT_GUNS,			45,				"weapon_zs_owens")
 GM:AddStartingItem("blstr",				ITEMCAT_GUNS,			45,				"weapon_zs_blaster")
